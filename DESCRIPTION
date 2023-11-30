@@ -1,6 +1,6 @@
 Package: utilitytools
 Type: Package
-Title: Contains some functions that are handy in certain utility tasks
+Title: Useful utility functions for long codes
 Version: 0.1.0
 Date: 2023-11-30
 Authors@R: c(person("Ahsanul", "Developer", role = c("aut", "cre"),
