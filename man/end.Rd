@@ -2,7 +2,7 @@
 % Please edit documentation in R/runtime.R
 \name{end}
 \alias{end}
-\title{Record Running Time of a Program}
+\title{Record Ending Time of a Program}
 \usage{
 end()
 }

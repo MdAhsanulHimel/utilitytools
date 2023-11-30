@@ -2,7 +2,7 @@
 % Please edit documentation in R/runtime.R
 \name{begin}
 \alias{begin}
-\title{Record Running Time of a Program}
+\title{Record Starting Time of a Program}
 \usage{
 begin()
 }
