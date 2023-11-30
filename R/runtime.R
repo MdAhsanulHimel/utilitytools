@@ -38,7 +38,7 @@ seconds_to_time_string <- function(seconds) {
 }
 
 
-#' Record Running Time of a Program
+#' Record Starting Time of a Program
 #'
 #' `begin()` starts running the stopwatch and `end()` stops the stopwatch to record run time.
 #' @return Several objects loaded to the global environment
@@ -57,7 +57,7 @@ begin <- function() {
   message("Program started: ", begin_time)
 }
 
-#' Record Running Time of a Program
+#' Record Ending Time of a Program
 #'
 #' `begin()` starts running the stopwatch and `end()` stops the stopwatch to record run time.
 #' @return Several objects loaded to the global environment
