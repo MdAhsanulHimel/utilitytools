@@ -1,0 +1,11 @@
+Package: utilitytools
+Type: Package
+Title: Contains some functions that are handy in certain utility tasks
+Version: 0.1.0
+Author: Md. Ahsanul Islam
+Maintainer: The package maintainer ahsanulislam10@gmail.com
+Description: .
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
