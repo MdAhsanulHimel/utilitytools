@@ -1,0 +1,37 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+options(tibble.print_min = 5, tibble.print_max = 5)
+```
+
+# utilitytools
+
+## Overview
+
+utilitytools has some useful functions -
+
+* `load_packages()` loads packages if already installed, otherwise installs and then loads.
+* `begin()` records starting time of a program.
+* `end()` records ending time of a program.
+* `write_runtime()` writes run-time to an Excel file.
+* `total_runtime()` calculates total run-time from the Excel file.
+* `seconds_to_time_string()` calculates time string from seconds.
+
+## Installation
+
+```{r, eval = FALSE}
+library(devtools) # Make sure that the devtools library is loaded
+install_github("MdAhsanulHimel/utilitytools")
+```
+
+Thank you!
