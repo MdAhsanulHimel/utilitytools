@@ -3,7 +3,7 @@ Type: Package
 Title: Contains some functions that are handy in certain utility tasks
 Version: 0.1.0
 Author: Ahsanul
-Maintainer: The package maintainer ahsanulislam10@gmail.com
+Maintainer: ahsanulislam10@gmail.com
 Description: This package contains some useful functions that comes handy when working with long programs that takes time.
 RoxygenNote: 7.2.3
 Encoding: UTF-8
