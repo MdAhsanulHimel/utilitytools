@@ -9,4 +9,3 @@ Maintainer: Ahsanul <ahsanulislam10@gmail.com>
 Description: This package contains some useful functions that comes handy when working with long programs that takes time.
 RoxygenNote: 7.2.3
 Encoding: UTF-8
-LazyData: true
