@@ -24,6 +24,6 @@ Split Multiple Response Variables into Dummies
 MultToDummy(x, splitby = ";")
 
 # Example for split by capital letters:
-MultToDummy(x, splitby = "(?<=[A-Z])|(?=[A-Z])")
+MultToDummy(x, splitby = "(?<=.)(?=[A-Z])")
 
 }
